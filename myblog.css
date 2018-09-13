@@ -30,6 +30,7 @@
     }
     #date{
         font-size:12px;
+        background-color:yellow;
     }
     #secondpost{
         color:rgb(100, 142, 209);
@@ -52,6 +53,7 @@
         <h6 id="date">Thursday, September 13, 2018</h6>
         <h2 id="secondpost">Second Post</h2>
         <img src="">
+        <h6 id="date">Thursday, September 13,2018</h6>
         
     </body>
 </html>
